@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+E:\Dropbox\Softwarte Technology\Advanced Software Design\Project\DesktopSign\.metadata\.plugins\org.eclipse.jdt.core
